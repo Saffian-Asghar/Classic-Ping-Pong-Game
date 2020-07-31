@@ -1,5 +1,5 @@
 # Classic Ping Pong Game
-Python Turtle
+Python Game Development 
 
 <p align="center">
     <img src="https://github.com/Saffian-Asghar/Classic-Ping-Pong-Game/blob/master/game.gif?raw=true" width="720" alt="lines" /><br>    
