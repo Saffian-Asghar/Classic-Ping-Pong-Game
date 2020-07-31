@@ -13,3 +13,6 @@ A simple classic ping pong game developed on Python using Turtle
 * winsound
 These packages are included in python distribution
 
+## Running
+Just run the batch file and you are good to go!
+
